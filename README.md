@@ -16,3 +16,4 @@ If we share what we learn while creating our projects we can help the Kelp ecosy
 
 - Here in the forest guide you can find information on participating in our community and high-level resources for Kelp development. This repository is also the place to volunteer to join us as a Forest member, ask questions about the Forest, and propose new Forest projects.
 - The [Strategy Compendium](https://github.com/kelpbot-forest/kelp-strategies), a repository of deployment ready custom strategies. 
+- [Rockfish](https://github.com/kelpbot-forest/rockfish), a community variant of Kelp with additional features, including Compendium strategies.
