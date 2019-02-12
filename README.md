@@ -1,3 +1,7 @@
+## kelpbot-forest/forest-guide is currently inactive and archived
+
+-----------------------------------
+
 # Welcome to Kelp Forest!
 
 Kelp Forest is a place for the Kelp user community to collaborate, share their Kelp-related projects, and support one another's development efforts. An ecosystem, as it were. We invite you to join us, and hope you can find what you're looking for here.
